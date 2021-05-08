@@ -1,0 +1,67 @@
+body {
+background-color: black;
+}
+
+h1 {
+    color: white;
+    font-family: "Sacramento", cursive;
+    margin-left: 500px;
+    margin-top: 300px;
+    font-size: 200px;
+
+    
+}
+h2 {
+    color: white;
+    font-family: "Monserrat", sans-serif;
+    margin-left: 700px;
+    font-size: 50px;
+    
+}
+
+img {
+    height: 850px;
+    width: 850px;
+    margin-left: 625px;
+    margin-top: 300px;
+    border-radius: 75%;
+    border-color: white;
+}
+
+p { color: white;
+    font-family: "Monserrat", sans-serif;
+    margin-top: 300px;
+    font-size: x-large;
+    text-align: center;
+}
+
+.Marathon {
+    margin-top: 150px;
+}
+
+.bottom-container {
+    color: white;
+    margin-top: 300px;
+    text-align: center;
+    font-size: xx-large;
+}
+
+.footer-link1 {
+    color: blue;
+    margin: 40px;
+    font-family: "Monserrat";
+
+}
+
+.footer-link2 {
+    color: blue;
+    margin: 50px;
+    font-family: "Monserrat";
+}
+
+.footer-link3 {
+    color: blue;
+    margin: 35px;
+    font-family: "Monserrat";
+}
+
